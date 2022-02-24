@@ -1,7 +1,7 @@
 # snake
 Ein künstlich intelligentes Snake-Programm als Projekt meiner vorwissenschaftlichen Arbeit (VWA)
 
-Es wurde Python 3.9.10 verwendet.
+Python 3.9.10 wurde verwendet.
 Die Programmbibliotheken torch, numpy, pygame und matplotlib sind erforderlich.
 
 - environment.py: Umfeld Snake
